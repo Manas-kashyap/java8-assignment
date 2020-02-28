@@ -1,8 +1,5 @@
 package com.knoldus;
 
-import com.knoldus.FunctionalInterface;
-import com.knoldus.User;
-
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
